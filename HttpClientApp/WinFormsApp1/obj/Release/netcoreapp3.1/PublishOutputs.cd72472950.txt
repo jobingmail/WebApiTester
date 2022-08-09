@@ -1,0 +1,6 @@
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApiClient.exe
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApiClient.dll
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApiClient.deps.json
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApiClient.runtimeconfig.json
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApiClient.pdb
+D:\Projects\ASP.NET Core\HttpClientApp\WinFormsApp1\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
