@@ -5,6 +5,9 @@ https://webapi.website.in/api/[controller]
 
 add above line to RequestURI replace [controller] with webapi controller name
 
+
+
+
 //===============sql script==============
 CREATE TABLE [dbo].[Quotes](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
