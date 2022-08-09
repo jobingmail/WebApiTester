@@ -1,5 +1,5 @@
 # WebApiTester
-this is httpclient software for CRUD operations on QuotesWebApi
+this is httpclient software for CRUD operations on QuotesWebApi written in Dot.Net Core 3.1
 
 https://webapi.website.in/api/[controller]
 
