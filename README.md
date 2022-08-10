@@ -1,7 +1,7 @@
 # WebApiTester
 this is httpclient (desktop app) software for CRUD operations on QuotesWebApi written in Dot.Net Core 3.1
 
-https://webapi.website.in/api/[controller]
+https://webapi.website.in/api/[controller] ,here controller is 'quotes' 
 
 add above line to RequestURI replace [controller] with webapi controller name
 
