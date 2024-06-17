@@ -3,7 +3,7 @@ this is httpclient (desktop app) software for CRUD operations on QuotesWebApi wr
 
 https://webapi.website.in/api/[controller] ,here [controller] is 'quotes' 
 
-add above line to RequestURI replace [controller] with webapi controller name
+add above line to RequestURI replace [controller] with webapi controller name.
 ex GET: https://webapi.jobinworkspace.in/api/quotes/1
 
 
