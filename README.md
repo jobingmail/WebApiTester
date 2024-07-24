@@ -9,6 +9,7 @@ ex GET: https://webapi.jobinworkspace.in/api/quotes/1
 
 
 //===============sql script==============
+
 CREATE TABLE [dbo].[Quotes](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Title] [nvarchar](max) NULL,
